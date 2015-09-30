@@ -10,7 +10,7 @@ title: 'Dont You Worry Child',
 artist: '<b>1</b>',
 album: 'Beth',
 cover:'file:///D:/xampps/htdocs/Media/audio/Mp3/img/DontYouWorryChild.png',
-mp3: 'file:///D:/xampps/htdocs/Media/audio/Mp3/DontYouWorryChild(CharmingHorsesRemix)-Beth.mp3'
+mp3: 'https://dn-mvp.qbox.me/DontYouWorryChild(CharmingHorsesRemix)-Beth.mp3'
 },
 {
 title: 'Robin Schulz-Sugar',
