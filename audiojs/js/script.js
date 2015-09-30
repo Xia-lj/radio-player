@@ -66,7 +66,7 @@ title: 'Cheerleader',
 artist: '<b>9</b>',
 album: 'Various Artists',
 cover: 'http://7xk72e.com1.z0.glb.clouddn.com/Cheerleader%20(Felix%20Jaehn%20Remix%20Radio%20Edit).png',
-mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/Cheerleader.mp3.mp3'
+mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/Cheerleader.mp3'
 },];
 
 	// Load playlist
