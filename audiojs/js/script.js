@@ -16,57 +16,57 @@ mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/DontYouWorryChild(CharmingHorsesRemi
 title: 'Robin Schulz-Sugar',
 artist: '<b>2</b>',
 album: 'Sugar Robin Schulz',
-cover: 'file:///D:/xampps/htdocs/Media/audio/Mp3/img/SugarRobin%20Schulz.png',
-mp3: 'file:///D:/xampps/htdocs/Media/audio/Mp3/Sugar-Robin%20Schulz.mp3'
+cover: 'http://7xk72e.com1.z0.glb.clouddn.com/SugarRobin%20Schulz.png',
+mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/Sugar-RobinSchulz.mp3'
 },
 {
 title: 'Deep Sounds Vol',
 artist: '<b>3</b>',
 album: 'Deep',
-cover: 'file:///D:/xampps/htdocs/Media/audio/Mp3/img/Deep%20Sounds%20Vol.%205.png',
-mp3: 'file:///D:/xampps/htdocs/Media/audio/Mp3/Deep%20Sounds%20Vol.mp3'
+cover: 'http://7xk72e.com1.z0.glb.clouddn.com/Deep%20Sounds%20Vol.%205.png',
+mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/Deep%20Sounds%20Vol.mp3'
 },
 {
 title: 'SummerMusic',
 artist: '<b>4</b>',
 album: 'Mix2015',
-cover: 'file:///D:/xampps/htdocs/Media/audio/Mp3/img/SummerMusicMix2015.png',
-mp3: 'file:///D:/xampps/htdocs/Media/audio/Mp3/SummerMusicMix2015.mp3'
+cover: 'http://7xk72e.com1.z0.glb.clouddn.com/SummerMusicMix2015.png',
+mp3: 'http://7xln5q.media1.z0.glb.clouddn.com/SummerMusicMix2015.mp3'
 },
 {
 title: 'Lost Frequencies feat',
 artist: '<b>5</b>',
 album: 'Lost Frequencies feat',
-cover: 'file:///D:/xampps/htdocs/Media/audio/Mp3/img/RealityLost%20Frequencies.png',
-mp3: 'file:///D:/xampps/htdocs/Media/audio/Mp3/Lost%20Frequencies%20feat.mp3'
+cover: 'http://7xk72e.com1.z0.glb.clouddn.com/RealityLost%20Frequencies.png',
+mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/LostFrequencies.mp3'
 },
 {
 title: 'The Best of Kygo',
 artist: '<b>6</b>',
 album: ' Kygo Mix',
-cover: 'audiojs/images/3.gif',
-mp3: 'file:///D:/xampps/htdocs/Media/audio/Mp3/TheBestofKygoMix.mp3'
+cover: 'http://7xlzi7.com1.z0.glb.clouddn.com/images/2.gif',
+mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/TheBestofKygoMix.mp3'
 },
 {
-title: 'VIVA ISCO THE BEST ',
+title: 'The Good Life ',
 artist: '<b>7</b>',
 album: 'MIX',
-cover: 'audiojs/images/4.gif',
-mp3: 'file:///D:/xampps/htdocs/Media/audio/Mp3/VIVA%20DISCO%20THE%20BEST%20MIX.mp3'
+cover: 'http://7xlzi7.com1.z0.glb.clouddn.com/images/2.gif',
+mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/The%20Good%20Life%20No.mp3'
 },
 {
 title: 'The Runaround',
 artist: '<b>8</b>',
 album: 'Sharon Corr',
-cover: 'file:///D:/xampps/htdocs/Media/audio/Mp3/img/the%20runaround.jpg',
-mp3: 'file:///D:/xampps/htdocs/Media/audio/Mp3/Sharon%20Corr%20-%20The%20Runaround.mp3'
+cover: 'http://7xk72e.com1.z0.glb.clouddn.com/the%20runaround.jpg',
+mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/TheRunaround.mp3'
 },
 {
 title: 'Cheerleader',
 artist: '<b>9</b>',
 album: 'Various Artists',
-cover: 'file:///D:/xampps/htdocs/Media/audio/Mp3/img/Cheerleader%20(Felix%20Jaehn%20Remix%20Radio%20Edit).png',
-mp3: 'file:///D:/xampps/htdocs/Media/audio/Mp3/Cheerleader-Various%20Artists.mp3'
+cover: 'http://7xk72e.com1.z0.glb.clouddn.com/Cheerleader%20(Felix%20Jaehn%20Remix%20Radio%20Edit).png',
+mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/Cheerleader.mp3.mp3'
 },];
 
 	// Load playlist
