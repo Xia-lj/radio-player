@@ -144,23 +144,23 @@ a {
 }
 
 #player .ctrl .control .playback {
-    background-image: url(../images/play.png);
+    background-image: url(http://7xlzi7.com1.z0.glb.clouddn.com/css/images/play.png);
 }
 
 #player .ctrl .control .playback.playing {
-    background-image: url(../images/pause.png);
+    background-image: url(http://7xlzi7.com1.z0.glb.clouddn.com/css/images/pause.png);
 }
 
 #player .ctrl .control .fastforward {
-    background-image: url(../images/fastforward.png);
+    background-image: url(http://7xlzi7.com1.z0.glb.clouddn.com/css/images/fastforward.png);
 }
 
 #player .ctrl .control .volume .mute {
-    background-image: url(../images/volume.png);
+    background-image: url(http://7xlzi7.com1.z0.glb.clouddn.com/css/images/volume.png);
 }
 
 #player .ctrl .control .volume .mute.enable {
-    background-image: url(../images/mute.png);
+    background-image: url(http://7xlzi7.com1.z0.glb.clouddn.com/css/images/mute.png);
 }
 
 #player .ctrl .control .volume .slider {
@@ -193,7 +193,7 @@ a {
 }
 
 #player .ctrl .progress .repeat {
-    background-image: url(../images/repeat.png);
+    background-image: url(http://7xlzi7.com1.z0.glb.clouddn.com/css/images/repeat.png);
 }
 
 #player .ctrl .progress .repeat.once,
@@ -214,7 +214,7 @@ a {
 }
 
 #player .ctrl .progress .shuffle {
-    background-image: url(../images/shuffle.png);
+    background-image: url(http://7xlzi7.com1.z0.glb.clouddn.com/css/images/shuffle.png);
 }
 
 .slider {
@@ -280,7 +280,7 @@ a {
 //     }
 // }
 .playdid:hover {
-    background: url(../images/maccaco-load.gif)no-repeat 0 0 rgba(0, 0, 0, 0.66);
+    background: url(http://7xlzi7.com1.z0.glb.clouddn.com/css/images/maccaco-load.gif)no-repeat 0 0 rgba(0, 0, 0, 0.66);
     opacity: 1;
     height: 5px;
     transform: scale(1.0.5);
@@ -378,7 +378,7 @@ a {
 }
 
 #playlist li.playing {
-    background: url(../images/playing.gif) ;
+    background: url(http://7xlzi7.com1.z0.glb.clouddn.com/css/images/playing.gif) ;
     color: #DABC40;
     font-weight: bold;
     text-shadow: 1px 1px 3px rgba(50, 50, 0, 0.98);
