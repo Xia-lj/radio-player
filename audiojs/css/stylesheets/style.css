@@ -30,7 +30,7 @@ a {
 }
 
 #background {
-    background: url(https://github.com/Xia-lj/radio-player/blob/master/mainbg.jpg);
+    background: url(https://raw.githubusercontent.com/Xia-lj/radio-player/master/mainbg.jpg);
     background-size: cover;
     position: fixed;
     top: 0;
@@ -140,7 +140,7 @@ a {
 }
 
 #player .ctrl .control .rewind {
-    background-image: url(https://github.com/Xia-lj/radio-player/blob/master/images/audiojs/rewind.png);
+    background-image: url(http://7xlzi7.com1.z0.glb.clouddn.com/css/images/rewind.png);
 }
 
 #player .ctrl .control .playback {
