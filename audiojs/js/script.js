@@ -41,11 +41,11 @@ cover: 'http://7xk72e.com1.z0.glb.clouddn.com/RealityLost%20Frequencies.png',
 mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/LostFrequencies.mp3'
 },
 {
-title: 'The Best of Kygo',
+title: 'SexualHealing',
 artist: '<b>6</b>',
-album: ' Kygo Mix',
+album: ' Mix',
 cover: 'http://7xlzi7.com1.z0.glb.clouddn.com/images/2.gif',
-mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/TheBestofKygoMix.mp3'
+mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/SexualHealing.mp3'
 },
 {
 title: 'The Good Life ',
@@ -53,6 +53,20 @@ artist: '<b>7</b>',
 album: 'MIX',
 cover: 'http://7xlzi7.com1.z0.glb.clouddn.com/images/2.gif',
 mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/The%20Good%20Life%20No.mp3'
+},
+{
+title: 'my-woman-my ',
+artist: '<b>7</b>',
+album: 'MIX',
+cover: 'http://7xk72e.com1.z0.glb.clouddn.com/My%20Woman%20My%20Everything.png',
+mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/my-woman-my.mp3'
+},
+{
+title: 'The Only Way',
+artist: '<b>7</b>',
+album: 'MIX',
+cover: 'http://7xlzi7.com1.z0.glb.clouddn.com/images/2.gif',
+mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/TheOnlyWay.mp3'
 },
 {
 title: 'The Runaround',
