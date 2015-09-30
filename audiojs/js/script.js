@@ -56,28 +56,28 @@ mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/The%20Good%20Life%20No.mp3'
 },
 {
 title: 'my-woman-my ',
-artist: '<b>7</b>',
+artist: '<b>8</b>',
 album: 'MIX',
 cover: 'http://7xk72e.com1.z0.glb.clouddn.com/My%20Woman%20My%20Everything.png',
 mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/my-woman-my.mp3'
 },
 {
 title: 'The Only Way',
-artist: '<b>7</b>',
+artist: '<b>9</b>',
 album: 'MIX',
 cover: 'http://7xlzi7.com1.z0.glb.clouddn.com/images/2.gif',
 mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/TheOnlyWay.mp3'
 },
 {
 title: 'The Runaround',
-artist: '<b>8</b>',
+artist: '<b>10</b>',
 album: 'Sharon Corr',
 cover: 'http://7xk72e.com1.z0.glb.clouddn.com/the%20runaround.jpg',
 mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/TheRunaround.mp3'
 },
 {
 title: 'Cheerleader',
-artist: '<b>9</b>',
+artist: '<b>11</b>',
 album: 'Various Artists',
 cover: 'http://7xk72e.com1.z0.glb.clouddn.com/Cheerleader%20(Felix%20Jaehn%20Remix%20Radio%20Edit).png',
 mp3: 'http://7xk72e.com1.z0.glb.clouddn.com/Cheerleader.mp3'
